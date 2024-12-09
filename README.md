@@ -14,7 +14,7 @@ Este proyecto es un sitio web de portafolio construido con Angular. Muestra vari
 
 ## Cómo Usar
 
-1. **Clonar el repositorio**:
+1. **Clonar el repositorio**: git clone https://github.com/HiroshiGamma/tarea2
 
 ## Servidor de Desarrollo
 
